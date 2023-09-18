@@ -7,18 +7,18 @@ Calendar for the largest esports competitions:
 4. [**Free Fire** World Series](https://github.com/gmandolesi/esports_calendar/blob/main/FreeFire_WorldSeries.ics)
 5. [**Overwatch** World Cup](https://github.com/gmandolesi/esports_calendar/blob/main/Overwatch_WorldCup.ics)
 
-9. **Call of Duty** League Championship - _Upcoming_
-10. **HALO** World Championship - _Upcoming_
-11. **Hearthstone** World Championship - _Upcoming_
-12. **Dota** Major Championships - _Upcoming_
-13. **PUBG** Global Championship - _Upcoming_
+
 
 <br />
 
  _Waiting for calendar release:_
- 1. The International (Dota 2)
+ 1. **Dota** Major Championships
  2. Gamers8 Festival
  3. Evolution Championship Series - Fighting games, eg. **Tekken7, Super Smash Bros, Street Fighter V**
+ 4. **Call of Duty** League Championship
+ 5. **HALO** World Championship
+ 6. **Hearthstone** World Championship
+ 7. **PUBG** Global Championship
 
 <br />
 
