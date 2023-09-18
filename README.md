@@ -1,7 +1,7 @@
 # esports_calendar
 Calendar for the largest esports competitions
 
-1. League of Legends World Championship
+1. [League of Legends World Championship](https://github.com/gmandolesi/esports_calendar/blob/main/LoL_WorldChampionship.ics)
 2. The International
 3. Fortnite World Cup
 4. Intel Extreme Masters
