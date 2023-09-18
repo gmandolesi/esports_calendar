@@ -23,6 +23,8 @@ Calendar for the largest esports competitions:
 <br />
 
 _Missing any event? Please add a request through the discussions tab_
+
+<br />
 _Would like to contribute? Please submit your pull request!_
 
 ## How to subscribe to a calendar
