@@ -31,5 +31,5 @@ e.begin = '2023-10-22 08:30:00'
 e.end = '2023-10-22 11:30:00'
 c.events.add(e)
 
-with open('../InterlExtremeMasters.ics', 'w') as my_file:
+with open('../IntelExtremeMasters.ics', 'w') as my_file:
     my_file.writelines(c.serialize_iter())
